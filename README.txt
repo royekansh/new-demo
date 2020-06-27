@@ -10,3 +10,7 @@ before commiting changes should be commited to their branch otherwise it would b
 
 
 this is bound to cause conflict
+
+
+
+just something going on
